@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="2" time="69.17">
+<testcase classname="Test apartment alif feature" name="Test apartments flat scenarioes" time="30.191">
+<system-out><![CDATA[Given I open Alif Ail apartments............................................passed
+And change the picture for alif ail apartments..............................passed
+When I verify text for alif ail apartments..................................passed
+And I verify monthly mortgage payment for alif ail apartments...............passed
+Then close the browser for alif ail apartments..............................passed
+]]></system-out>
+</testcase>
+<testcase classname="Test BDDL Reaz Bag flat feature" name="Test BDDL Reaz Bag apartment scenario" time="38.658">
+<system-out><![CDATA[Given I open BDDL Reaz Bag apartment page...................................passed
+And change the picture for BDDL Reaz Bag apartment..........................passed
+When I verify text for BDDL Reaz Bag apartment..............................passed
+And I verify monthly mortgage payment for BDDL Reaz Bag apartment...........passed
+Then close the browser for BDDL Reaz Bag apartment..........................passed
+]]></system-out>
+</testcase>
+</testsuite>

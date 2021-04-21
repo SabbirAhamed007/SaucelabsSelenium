@@ -1,0 +1,255 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-04-21T00:29:15.339Z",
+        "before": [
+          {
+            "result": {
+              "duration": 5339368200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDEFinition.ApartmentsAlif.setUp(io.cucumber.java.Scenario)"
+            }
+          },
+          {
+            "result": {
+              "duration": 13273089900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDEFinition.BDDL_Reaz.setUp(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "Test apartments flat scenarioes",
+        "description": "",
+        "id": "test-apartment-alif-feature;test-apartments-flat-scenarioes",
+        "after": [
+          {
+            "result": {
+              "duration": 785667900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDEFinition.BDDL_Reaz.tearDown(io.cucumber.java.Scenario)"
+            }
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDEFinition.ApartmentsAlif.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 4143383900,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I open Alif Ail apartments",
+            "match": {
+              "location": "stepDEFinition.ApartmentsAlif.i_open_alif_ail_apartments()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3103061000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "change the picture for alif ail apartments",
+            "match": {
+              "location": "stepDEFinition.ApartmentsAlif.change_the_picture_for_alif_ail_apartments()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 485582300,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I verify text for alif ail apartments",
+            "match": {
+              "location": "stepDEFinition.ApartmentsAlif.i_verify_text_for_alif_ail_apartments()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2702941200,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I verify monthly mortgage payment for alif ail apartments",
+            "match": {
+              "location": "stepDEFinition.ApartmentsAlif.i_verify_monthly_mortgage_payment_for_alif_ail_apartments()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 274905700,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "close the browser for alif ail apartments",
+            "match": {
+              "location": "stepDEFinition.ApartmentsAlif.close_the_browser_for_alif_ail_apartments()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag1"
+          }
+        ]
+      }
+    ],
+    "name": "Test apartment alif feature",
+    "description": "",
+    "id": "test-apartment-alif-feature",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/ApartmentsAlif.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-04-21T00:29:45.559Z",
+        "before": [
+          {
+            "result": {
+              "duration": 4747091200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDEFinition.ApartmentsAlif.setUp(io.cucumber.java.Scenario)"
+            }
+          },
+          {
+            "result": {
+              "duration": 16344106900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDEFinition.BDDL_Reaz.setUp(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "Test BDDL Reaz Bag apartment scenario",
+        "description": "",
+        "id": "test-bddl-reaz-bag-flat-feature;test-bddl-reaz-bag-apartment-scenario",
+        "after": [
+          {
+            "result": {
+              "duration": 994800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDEFinition.BDDL_Reaz.tearDown(io.cucumber.java.Scenario)"
+            }
+          },
+          {
+            "result": {
+              "duration": 763793800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDEFinition.ApartmentsAlif.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 8632116900,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I open BDDL Reaz Bag apartment page",
+            "match": {
+              "location": "stepDEFinition.BDDL_Reaz.i_open_bddl_reaz_bag_apartment_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2393213800,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "change the picture for BDDL Reaz Bag apartment",
+            "match": {
+              "location": "stepDEFinition.BDDL_Reaz.change_the_picture_for_bddl_reaz_bag_apartment()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 865150500,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I verify text for BDDL Reaz Bag apartment",
+            "match": {
+              "location": "stepDEFinition.BDDL_Reaz.i_verify_text_for_bddl_reaz_bag_apartment()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 4251011300,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I verify monthly mortgage payment for BDDL Reaz Bag apartment",
+            "match": {
+              "location": "stepDEFinition.BDDL_Reaz.i_verify_monthly_mortgage_payment_for_bddl_reaz_bag_apartment()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 650474100,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "close the browser for BDDL Reaz Bag apartment",
+            "match": {
+              "location": "stepDEFinition.BDDL_Reaz.close_the_browser_for_bddl_reaz_bag_apartment()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag2"
+          }
+        ]
+      }
+    ],
+    "name": "Test BDDL Reaz Bag flat feature",
+    "description": "",
+    "id": "test-bddl-reaz-bag-flat-feature",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/BDDL_Reaz.feature",
+    "tags": []
+  }
+]
